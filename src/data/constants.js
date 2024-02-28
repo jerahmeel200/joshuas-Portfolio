@@ -149,13 +149,35 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: sofhub,
+    img: "https://upload.wikimedia.org/wikipedia/commons/c/c9/Google_logo_%282013-2015%29.svg",
     role: "UI/UX Designer",
-    company: "HNG Internship",
-    date: "June 2022 - 2023 ",
-    desc: "description",
+    company: "Google",
+    date: "  February 2023 - July 2023, (Remaote)",
+    desc: "Completed a rigorous training designed for entry-level job readiness. 15 modules included topics like: UX research fundamentals, inclusive design, low-fidelity and high-fidelity prototypes, and tools like Figma and Adobe XD. Completed hands-on projects and developed a portfolio including 3 projects to receive the certificate. ",
 
     skills: ["Figma", "Adobe"],
+    doc: "",
+  },
+  {
+    id: 0,
+    img: "",
+    role: "Beautician  Magic Touch",
+    company: "Beautician  Magic Touch",
+    date: " August 2015 - August 2021, Jos, Nigeria",
+    desc: "Provide superior customer service leadership; greet and assist customers. Stock merchandise, restock, rotate merchandise on shelves, and build merchandise displays. Follow company work processes to book appointments and follow up",
+
+    skills: ["LeaderShip, Sales"],
+    doc: "",
+  },
+  {
+    id: 0,
+    img: "",
+    role: "Sales Associate  Learn Africa Plc",
+    company: "Sales Associate  Learn Africa Plc",
+    date: "  May 2012 - January 2015, Abuja Nigeria",
+    desc: "Maintained organized, presentable merchandise in order to drive sales and have visual appeal. Evaluated inventory and delivery needs, optimizing strategies to meet consumer demand. Analysed and processed returns, and assisted customers with finding new products to meet their needs. ",
+
+    skills: ["Sales"],
     doc: "",
   },
 ];
@@ -165,10 +187,10 @@ export const education = [
     id: 0,
     img: uj,
     school: "University of Jos, Nigeria",
-    date: "2017 - 2021",
-    grade: "8.71 CGPA",
-    desc: "Bachelor of Business Administration - BBA ",
+    date: " August 2012 - May 2014",
+    grade: "2.1 GPA",
     degree: "Bachelor of Mass Communication",
+    desc: "Active member of the News writing team for after-school News writing Club.",
   },
   {
     id: 1,
