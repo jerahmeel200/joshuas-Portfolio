@@ -1,4 +1,5 @@
 import watpad from "../images/watpad.jpg";
+import Syndrome from "../images/Syndrome.jpg";
 import TrendifyCase from "../images/TrendifyCase.png";
 import Heading from "../images/Heading.png";
 import watpadCase from "../images/watpadCase.jpg";
@@ -186,15 +187,15 @@ export const education = [
 export const projects = [
   {
     id: 4,
-    title: "Trendify",
+    title: "User Experience for individuals with Down Syndrome-Research Study",
     date: "Jul 2023",
     description: "description",
-    image: trendyfyr,
+    image: Syndrome,
     tags: ["figma", "Adobe"],
     category: "web app",
     github: "https://github.com/jerahmeel200/whatsapp-clone",
     webapp:
-      "https://www.figma.com/proto/tMbcKddGISvAXMt7IUtlzA/Untitled?type=design&node-id=16-3431&t=EwjzXY8DZPitT0ns-1&scaling=contain&page-id=0%3A1&mode=design",
+      "https://www.figma.com/proto/tMbcKddGISvAXMt7IUtlzA/Untitled?type=design&node-id=16-1434&t=cInCuBSp39rxnI6R-1&scaling=contain&page-id=0%3A1&mode=design",
   },
 
   {
@@ -208,7 +209,7 @@ export const projects = [
     category: "web app",
     github: "https://github.com/jerahmeel200/todo-App",
     webapp:
-      "https://www.figma.com/proto/tMbcKddGISvAXMt7IUtlzA/Untitled?type=design&node-id=16-1434&t=1Vk9oEe1aQrOa6E8-1&scaling=contain&page-id=0%3A1&mode=design",
+      "https://www.figma.com/proto/tMbcKddGISvAXMt7IUtlzA/Untitled?type=design&node-id=16-3010&t=jH90CNKSBvSYV4W8-1&scaling=contain&page-id=0%3A1&mode=design",
   },
   {
     id: 6,
