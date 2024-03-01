@@ -176,7 +176,7 @@ export const education = [
     id: 1,
     img: fgc,
     school: "Government College Jos",
-    date: "Apr 2010 - Apr 2016",
+    date: "",
     grade: "88.2%",
     desc: "I completed my high school education  at Federal Government College Jos.",
     degree: "art",
@@ -186,7 +186,7 @@ export const education = [
 export const projects = [
   {
     id: 4,
-    title: "Trendyfyr",
+    title: "Trendify",
     date: "Jul 2023",
     description: "description",
     image: trendyfyr,
@@ -194,7 +194,7 @@ export const projects = [
     category: "web app",
     github: "https://github.com/jerahmeel200/whatsapp-clone",
     webapp:
-      "https://www.figma.com/proto/AnstDCa4leXKGoIZLnjZu9/Untitled?type=design&node-id=1-3428&t=w015bMA2OPaQgA36-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A5960&mode=design",
+      "https://www.figma.com/proto/tMbcKddGISvAXMt7IUtlzA/Untitled?type=design&node-id=16-3431&t=EwjzXY8DZPitT0ns-1&scaling=contain&page-id=0%3A1&mode=design",
   },
 
   {
@@ -208,7 +208,7 @@ export const projects = [
     category: "web app",
     github: "https://github.com/jerahmeel200/todo-App",
     webapp:
-      "https://www.figma.com/file/tMbcKddGISvAXMt7IUtlzA/Untitled?type=design&node-id=16-3010&mode=design&t=FzjuVjg1B158vIYa-0",
+      "https://www.figma.com/proto/tMbcKddGISvAXMt7IUtlzA/Untitled?type=design&node-id=16-1434&t=1Vk9oEe1aQrOa6E8-1&scaling=contain&page-id=0%3A1&mode=design",
   },
   {
     id: 6,
@@ -220,7 +220,7 @@ export const projects = [
     category: "web app",
     github: "https://github.com/jerahmeel200/todo-App",
     webapp:
-      "https://www.figma.com/file/tMbcKddGISvAXMt7IUtlzA/Untitled?type=design&node-id=16%3A1680&mode=design&t=Vvt3oFa4BdomBSNe-1",
+      "https://www.figma.com/proto/tMbcKddGISvAXMt7IUtlzA/Untitled?type=design&node-id=16-1680&t=RnkTco6rujw7o3dl-1&scaling=contain&page-id=0%3A1&mode=design",
   },
   {
     id: 7,
@@ -232,7 +232,7 @@ export const projects = [
     category: "web app",
     github: "https://github.com/jerahmeel200/todo-App",
     webapp:
-      "https://www.figma.com/file/tMbcKddGISvAXMt7IUtlzA/Untitled?type=design&node-id=16-3431&mode=design&t=BTR5AeDrAwKlU6Cp-0",
+      "https://www.figma.com/proto/tMbcKddGISvAXMt7IUtlzA/Untitled?type=design&node-id=16-3431&t=EwjzXY8DZPitT0ns-1&scaling=contain&page-id=0%3A1",
   },
   {
     id: 8,
@@ -244,6 +244,6 @@ export const projects = [
     category: "web app",
     github: "https://github.com/jerahmeel200/todo-App",
     webapp:
-      "https://www.figma.com/file/tMbcKddGISvAXMt7IUtlzA/Untitled?type=design&mode=design&t=9EQXIAXSBDwdKe8L-0",
+      "https://www.figma.com/proto/tMbcKddGISvAXMt7IUtlzA/Untitled?type=design&node-id=16-5763&t=eeZ3nEGIIOnMV4De-1&scaling=contain&page-id=0%3A1",
   },
 ];
