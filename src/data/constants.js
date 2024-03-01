@@ -161,6 +161,17 @@ export const experiences = [
     skills: ["Figma", "Adobe"],
     doc: "",
   },
+  {
+    id: 0,
+    img: "",
+    role: "Product Designer",
+    company: "HNG",
+    date: "  February 2023 - July 2023, (Remaote)",
+    desc: "At HNG, I gained valuable experience in conducting user research, creating personas, and designing storyboards. My tasks included: Empathy mapping, journey mapping, and prototyping were essential in crafting user-centred designs that effectively addressed user needs and pain points. Overall, the internship provided me with hands-on experience in the UX design process from ideating to final designs and equipped me with the skills necessary to create impactful and user-friendly digital experiences. ",
+
+    skills: ["Figma", "Adobe"],
+    doc: "",
+  },
 ];
 
 export const education = [
