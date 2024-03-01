@@ -1,4 +1,5 @@
 import watpad from "../images/watpad.jpg";
+import hng from "../images/hng.jpg";
 import Syndrome from "../images/Syndrome.jpg";
 import TrendifyCase from "../images/TrendifyCase.png";
 import Heading from "../images/Heading.png";
@@ -18,7 +19,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com ",
   resume:
-    "https://docs.google.com/document/d/1ii-FyZG6piWMjv66PbmwQFtJyEZ79zpp9EvSrw3gkKI/edit",
+    "https://docs.google.com/document/d/1ploWE4htf-37Cd3hGAKwqS_ONL905iPK6aECl8txahc/edit",
   linkedin: "https://www.linkedin.com/in/ ",
   twitter: "https://twitter.com/ ",
   insta: "https://www.instagram.com/ ",
@@ -153,9 +154,9 @@ export const experiences = [
   {
     id: 0,
     img: "https://upload.wikimedia.org/wikipedia/commons/c/c9/Google_logo_%282013-2015%29.svg",
-    role: "UI/UX Designer",
+    role: "UI/UX Designer, (Remote)",
     company: "Google",
-    date: "  February 2023 - July 2023, (Remaote)",
+    date: "  February 2023 - July 2023, (Remote)",
     desc: "Completed a rigorous training designed for entry-level job readiness. 15 modules included topics like: UX research fundamentals, inclusive design, low-fidelity and high-fidelity prototypes, and tools like Figma and Adobe XD. Completed hands-on projects and developed a portfolio including 3 projects to receive the certificate. ",
 
     skills: ["Figma", "Adobe"],
@@ -163,10 +164,10 @@ export const experiences = [
   },
   {
     id: 0,
-    img: "",
-    role: "Product Designer",
+    img: hng,
+    role: "UI/UX Designer, (Remote)",
     company: "HNG",
-    date: "  February 2023 - July 2023, (Remaote)",
+    date: "  October 2022 - Jan 2023",
     desc: "At HNG, I gained valuable experience in conducting user research, creating personas, and designing storyboards. My tasks included: Empathy mapping, journey mapping, and prototyping were essential in crafting user-centred designs that effectively addressed user needs and pain points. Overall, the internship provided me with hands-on experience in the UX design process from ideating to final designs and equipped me with the skills necessary to create impactful and user-friendly digital experiences. ",
 
     skills: ["Figma", "Adobe"],
@@ -179,7 +180,7 @@ export const education = [
     id: 0,
     img: uj,
     school: "University of Jos, Nigeria",
-    date: " August 2011 - May 2014",
+    date: " August 2011 - May 2015",
     grade: "2.1 GPA",
     degree: "Bachelor of Mass Communication",
     desc: "Active member of the News writing team for after-school News writing Club.",
@@ -191,7 +192,6 @@ export const education = [
     date: "",
     grade: "88.2%",
     desc: "I completed my high school education  at Federal Government College Jos.",
-    degree: "art",
   },
 ];
 
@@ -200,9 +200,10 @@ export const projects = [
     id: 4,
     title: "User Experience for individuals with Down Syndrome-Research Study",
     date: "Jul 2023",
-    description: "description",
+    description:
+      "Through interviews with an occupational therapist and a parent, the study highlights the role of tailored interventions, collaboration with other professionals, and the importance of creating inclusive digital inventions.",
     image: Syndrome,
-    tags: ["figma", "Adobe"],
+    tags: ["Figma", "Freepik", "SVG"],
     category: "web app",
     github: "https://github.com/jerahmeel200/whatsapp-clone",
     webapp:
@@ -214,7 +215,7 @@ export const projects = [
     title: "Hotel Search Booking App Case Study",
     date: "Jun 2021",
     description:
-      "This hotel booking app is a user friendly app designed so that users can conveniently book their accommodations. ",
+      "This first version of the hotel booking app Ho-Search allows users to find and book accommodations quickly and easily.",
     image: caseStudy,
     tags: ["Figma", "Freepik", "SVG"],
     category: "web app",
@@ -225,10 +226,11 @@ export const projects = [
   {
     id: 6,
     title: "Watpad Case Study",
-    date: "Jun 2021",
-    description: "description",
+    date: "Jen 2023",
+    description:
+      "This app that allows users to discover, read, and share a vast array of stories across various genres, including romance, fantasy, mystery, and fanfiction. Users can access a library of millions of free stories written by both amateur and professional writers from around the world",
     image: watpadCase,
-    tags: [],
+    tags: ["Figma", "Freepik", "SVG"],
     category: "web app",
     github: "https://github.com/jerahmeel200/todo-App",
     webapp:
@@ -237,10 +239,11 @@ export const projects = [
   {
     id: 7,
     title: "Trendify Case Study",
-    date: "Jun 2021",
-    description: "description",
+    date: "Jun 2023",
+    description:
+      "Trendify is a fashion app that curates the latest trends and styles, allowing users to discover and shop for clothing and accessories from popular brands.",
     image: TrendifyCase,
-    tags: [],
+    tags: ["Figma", "Freepik", "SVG"],
     category: "web app",
     github: "https://github.com/jerahmeel200/todo-App",
     webapp:
@@ -249,10 +252,10 @@ export const projects = [
   {
     id: 8,
     title: "Hotel 2 Case Study",
-    date: "Jun 2021",
+    date: "Aug 2021",
     description: "description",
     image: Heading,
-    tags: [],
+    tags: ["Figma", "Freepik", "SVG"],
     category: "web app",
     github: "https://github.com/jerahmeel200/todo-App",
     webapp:
