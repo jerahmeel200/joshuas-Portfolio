@@ -1,4 +1,6 @@
 import watpad from "../images/watpad.jpg";
+import TrendifyCase from "../images/TrendifyCase.png";
+import Heading from "../images/Heading.png";
 import watpadCase from "../images/watpadCase.jpg";
 import trendyfyr from "../images/trendyfyr.jpg";
 import caseStudy from "../images/caseStudy.jpg";
@@ -158,28 +160,6 @@ export const experiences = [
     skills: ["Figma", "Adobe"],
     doc: "",
   },
-  {
-    id: 0,
-    img: "",
-    role: "Beautician  Magic Touch",
-    company: "Beautician  Magic Touch",
-    date: " August 2015 - August 2021, Jos, Nigeria",
-    desc: "Provide superior customer service leadership; greet and assist customers. Stock merchandise, restock, rotate merchandise on shelves, and build merchandise displays. Follow company work processes to book appointments and follow up",
-
-    skills: ["LeaderShip, Sales"],
-    doc: "",
-  },
-  {
-    id: 0,
-    img: "",
-    role: "Sales Associate  Learn Africa Plc",
-    company: "Sales Associate  Learn Africa Plc",
-    date: "  May 2012 - January 2015, Abuja Nigeria",
-    desc: "Maintained organized, presentable merchandise in order to drive sales and have visual appeal. Evaluated inventory and delivery needs, optimizing strategies to meet consumer demand. Analysed and processed returns, and assisted customers with finding new products to meet their needs. ",
-
-    skills: ["Sales"],
-    doc: "",
-  },
 ];
 
 export const education = [
@@ -187,7 +167,7 @@ export const education = [
     id: 0,
     img: uj,
     school: "University of Jos, Nigeria",
-    date: " August 2012 - May 2014",
+    date: " August 2011 - May 2014",
     grade: "2.1 GPA",
     degree: "Bachelor of Mass Communication",
     desc: "Active member of the News writing team for after-school News writing Club.",
@@ -205,20 +185,6 @@ export const education = [
 
 export const projects = [
   {
-    id: 3,
-    title: "Watpad",
-    date: "Apr 2023",
-    description: "description",
-    image: watpad,
-
-    tags: ["figma", "Adobe"],
-    category: "web app",
-
-    webapp:
-      "https://www.figma.com/file/RUFvxtUKUYiT7UALzODyRK/Untitled?type=design&node-id=0%3A1&mode=design&t=fU4WBRr3PxzSMEmL-1",
-  },
-
-  {
     id: 4,
     title: "Trendyfyr",
     date: "Jul 2023",
@@ -227,22 +193,25 @@ export const projects = [
     tags: ["figma", "Adobe"],
     category: "web app",
     github: "https://github.com/jerahmeel200/whatsapp-clone",
-    webapp: "https://whatsapp-clone-rishav.web.app",
+    webapp:
+      "https://www.figma.com/proto/AnstDCa4leXKGoIZLnjZu9/Untitled?type=design&node-id=1-3428&t=w015bMA2OPaQgA36-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A5960&mode=design",
   },
 
   {
-    id: 5,
+    id: 3,
     title: "Hotel Search Booking App Case Study",
     date: "Jun 2021",
-    description: "description",
+    description:
+      "This hotel booking app is a user friendly app designed so that users can conveniently book their accommodations. ",
     image: caseStudy,
-    tags: [],
+    tags: ["Figma", "Freepik", "SVG"],
     category: "web app",
     github: "https://github.com/jerahmeel200/todo-App",
-    webapp: "https://rishav-react-todo.netlify.app/",
+    webapp:
+      "https://www.figma.com/file/tMbcKddGISvAXMt7IUtlzA/Untitled?type=design&node-id=16-3010&mode=design&t=FzjuVjg1B158vIYa-0",
   },
   {
-    id: 5,
+    id: 6,
     title: "Watpad Case Study",
     date: "Jun 2021",
     description: "description",
@@ -250,6 +219,31 @@ export const projects = [
     tags: [],
     category: "web app",
     github: "https://github.com/jerahmeel200/todo-App",
-    webapp: "https://rishav-react-todo.netlify.app/",
+    webapp:
+      "https://www.figma.com/file/tMbcKddGISvAXMt7IUtlzA/Untitled?type=design&node-id=16%3A1680&mode=design&t=Vvt3oFa4BdomBSNe-1",
+  },
+  {
+    id: 7,
+    title: "Trendify Case Study",
+    date: "Jun 2021",
+    description: "description",
+    image: TrendifyCase,
+    tags: [],
+    category: "web app",
+    github: "https://github.com/jerahmeel200/todo-App",
+    webapp:
+      "https://www.figma.com/file/tMbcKddGISvAXMt7IUtlzA/Untitled?type=design&node-id=16-3431&mode=design&t=BTR5AeDrAwKlU6Cp-0",
+  },
+  {
+    id: 8,
+    title: "Hotel 2 Case Study",
+    date: "Jun 2021",
+    description: "description",
+    image: Heading,
+    tags: [],
+    category: "web app",
+    github: "https://github.com/jerahmeel200/todo-App",
+    webapp:
+      "https://www.figma.com/file/tMbcKddGISvAXMt7IUtlzA/Untitled?type=design&mode=design&t=9EQXIAXSBDwdKe8L-0",
   },
 ];
