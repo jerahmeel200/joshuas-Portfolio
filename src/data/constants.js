@@ -20,10 +20,10 @@ export const Bio = {
   github: "https://github.com ",
   resume:
     "https://docs.google.com/document/d/1ploWE4htf-37Cd3hGAKwqS_ONL905iPK6aECl8txahc/edit",
-  linkedin: "https://www.linkedin.com/in/ ",
-  twitter: "https://twitter.com/ ",
-  insta: "https://www.instagram.com/ ",
-  facebook: "https://web.facebook.com/ ",
+  linkedin: "http://linkedin.com/in/joshua-arkson-85a259255",
+  // twitter: "https://twitter.com/ ",
+  insta: "https://www.instagram.com/arkson_joshua/",
+  facebook: "https://www.facebook.com/profile.php?id=100082960394735",
 };
 
 export const skills = [
