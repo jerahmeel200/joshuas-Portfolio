@@ -252,7 +252,7 @@ export const projects = [
   },
   {
     id: 8,
-    title: "Hotel 2 Case Study",
+    title: "Hotel Case Study version 1",
     date: "Aug 2021",
     description:
       "Version 1 of our hotel search app provides users with a seamless and intuitive platform to discover, compare, and book hotels worldwide. With a user-friendly interface and robust search functionality, users can easily find accommodations that meet their preferences and budget. The app offers detailed hotel listings, including photos, reviews, amenities, and pricing information, empowering users to make informed decisions. Additionally, integrated booking features streamline the reservation process, ensuring a hassle-free experience for travellers on the go.",
