@@ -23,6 +23,7 @@ export const Bio = {
   linkedin: "http://linkedin.com/in/joshua-arkson-85a259255",
   // twitter: "https://twitter.com/ ",
   insta: "https://www.instagram.com/arkson_joshua/",
+  youtube: "http://www.youtube.com/@joshuaarkson7381",
   facebook: "https://www.facebook.com/profile.php?id=100082960394735",
 };
 
@@ -253,7 +254,8 @@ export const projects = [
     id: 8,
     title: "Hotel 2 Case Study",
     date: "Aug 2021",
-    description: "description",
+    description:
+      "Version 1 of our hotel search app provides users with a seamless and intuitive platform to discover, compare, and book hotels worldwide. With a user-friendly interface and robust search functionality, users can easily find accommodations that meet their preferences and budget. The app offers detailed hotel listings, including photos, reviews, amenities, and pricing information, empowering users to make informed decisions. Additionally, integrated booking features streamline the reservation process, ensuring a hassle-free experience for travellers on the go.",
     image: Heading,
     tags: ["Figma", "Freepik", "SVG"],
     category: "web app",

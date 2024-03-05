@@ -107,7 +107,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display">
             <InstagramIcon />
           </SocialMediaIcon>
-          <SocialMediaIcon href={Bio.insta} target="display">
+          <SocialMediaIcon href={Bio.youtube} target="display">
             <Youtube />
           </SocialMediaIcon>
         </SocialMediaIcons>
