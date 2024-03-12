@@ -29,7 +29,7 @@ export const Bio = {
 
 export const skills = [
   {
-    // title: "Frontend",
+    // title: "Frontends",
     skills: [
       {
         name: "React Js",
@@ -250,6 +250,7 @@ export const projects = [
     webapp:
       "https://www.figma.com/proto/tMbcKddGISvAXMt7IUtlzA/Untitled?type=design&node-id=16-3431&t=EwjzXY8DZPitT0ns-1&scaling=contain&page-id=0%3A1",
   },
+
   {
     id: 8,
     title: "Hotel Case Study version 1",
